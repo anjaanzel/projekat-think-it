@@ -1,4 +1,4 @@
-1. cd into the 
+1. cd into the project folder
 2. install composer (composer install)
 3. npm install
 4. create a copy of .env file (without .example)
